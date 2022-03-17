@@ -1,0 +1,32 @@
+{
+    "thoughts": "Pensamientos negativos",
+    "dysf_emotions": {
+			"num_emotions": 2,
+			"emotions": ["anger", "guilt"],
+			"blend": 5,
+			"speed": 1.0,
+			"perspective": "self"
+	},
+	"func_emotions": {
+			"num_emotions": 2,
+			"emotions": ["annoyance","remorse"],
+			"blend": 9,
+			"speed": 2.25,
+			"perspective": "other"
+			
+	},
+	"mood": {
+			"valence": 0.8,
+			"arousal": 0.6,
+			"mood_desc": "hostile",
+			"blend": 7,
+			"speed": 1.03	
+	},
+	"pattern": {
+		"pattern_desc": "blaming",
+		"blend": 9,
+		"speed": 1.00
+	},
+	"conduct": ["facing behavior", "defensiveness"],
+	"response": "No es posible!!"
+}
